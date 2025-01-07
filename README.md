@@ -2,7 +2,13 @@
 
 A simple **Memory Game** built with **JavaScript**, **HTML**, and **CSS**. The game challenges players to match pairs of cards. Flip two cards at a time, and if they match, they remain face-up. If not, they will flip back. The game continues until all pairs are matched.
 
+<div align="center">
+
 [Live](https://shoaib73510.github.io/Memory-game-js/)
+
+![preview](preview.png)
+</div>
+
 
 ## Features
 - **Card Matching**: Cards are shuffled and displayed face down. Players flip two cards at a time to match pairs.
@@ -22,4 +28,4 @@ A simple **Memory Game** built with **JavaScript**, **HTML**, and **CSS**. The g
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/memory-game.git
+   git clone https://github.com/shoaib73510/Memory-game-js.git
